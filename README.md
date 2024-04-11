@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rustinayush
-- 😄 I am a final year undergrad student pursuing B.Tech(C.S.E.).
+- 😄 I am a Graduate student B.Tech(C.S.E.).
 - 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently learning DSA and Web Development
+- 🌱 I’m currently learning DSA and Web Development.
 
 
 <!---
